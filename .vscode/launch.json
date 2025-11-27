@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lhy/Desktop/courses/语音信号识别/语音实验二/dpss-exp2-HMM-master",
+      "program": "/Users/lhy/Desktop/courses/语音信号识别/语音实验二/dpss-exp2-HMM-master/build/Debug/outDebug"
+    }
+  ]
+}
